@@ -2,8 +2,8 @@
     "version": 2,
     "categories": [
         {
-            id: "paintings",
-            name: "Paintings",
+            "id": "paintings",
+            "name": "Paintings",
             "templates": [
                 {
                     "id": "monalisa",
