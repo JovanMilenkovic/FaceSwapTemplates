@@ -1,57 +1,99 @@
 {
-    "version": 2,
-    "categories": [
+  "version": 3,
+  "categories": [
+    {
+      "id": "paintings",
+      "name": "Paintings",
+      "templates": [
         {
-            "id": "paintings",
-            "name": "Paintings",
-            "templates": [
-                {
-                    "id": "monalisa",
-                    "url": "https://jovanmilenkovic.github.io/FaceSwapTemplates/images/mona_lisa.jpg",
-                },
-                {
-                    "id": "Baldassare_Castiglione",
-                    "url": "https://jovanmilenkovic.github.io/FaceSwapTemplates/images/Baldassare_Castiglione.jpg",
-                },
-                {
-                    "id": "American_Gothic",
-                    "url": "https://jovanmilenkovic.github.io/FaceSwapTemplates/images/American_Gothic.jpg",
-                },
-                {
-                    "id": "Gustav_Klimt",
-                    "url": "https://jovanmilenkovic.github.io/FaceSwapTemplates/images/Gustav_Klimt.jpg",
-                },
-                {
-                    "id": "Girl_with_a_Pearl_Earring",
-                    "url": "https://jovanmilenkovic.github.io/FaceSwapTemplates/images/Girl_with_a_Pearl_Earring.jpg",
-                },
-                {
-                    "id": "Self-portrait_in_a_Straw_Hat",
-                    "url": "https://jovanmilenkovic.github.io/FaceSwapTemplates/images/Self-portrait_in_a_Straw_Hat.jpg",
-                },
-            ]
+          "id": "monalisa",
+          "url": "https://jovanmilenkovic.github.io/FaceSwapTemplates/images/mona_lisa.jpg"
         },
         {
-            "id": "test",
-            "name": "Test Templates",
-            "icon": "sparkles",
-            "templates": [
-                {
-                    "id": "test_01",
-                    "url": "https://jovanmilenkovic.github.io/FaceSwapTemplates/images/test_01.jpg",
-                    "credit": "Test 1"
-                },
-                {
-                    "id": "test_02",
-                    "url": "https://jovanmilenkovic.github.io/FaceSwapTemplates/images/test_02.jpg",
-                    "credit": "Test 2"
-                },
-                {
-                    "id": "test_03",
-                    "url": "https://jovanmilenkovic.github.io/FaceSwapTemplates/images/test_03.jpg",
-                    "credit": "Test 3"
-                }
-            ]
+          "id": "Baldassare_Castiglione",
+          "url": "https://jovanmilenkovic.github.io/FaceSwapTemplates/images/Baldassare_Castiglione.jpg"
+        },
+        {
+          "id": "American_Gothic",
+          "url": "https://jovanmilenkovic.github.io/FaceSwapTemplates/images/American_Gothic.jpg"
+        },
+        {
+          "id": "Gustav_Klimt",
+          "url": "https://jovanmilenkovic.github.io/FaceSwapTemplates/images/Gustav_Klimt.jpg"
+        },
+        {
+          "id": "Girl_with_a_Pearl_Earring",
+          "url": "https://jovanmilenkovic.github.io/FaceSwapTemplates/images/Girl_with_a_Pearl_Earring.jpg"
+        },
+        {
+          "id": "Self-portrait_in_a_Straw_Hat",
+          "url": "https://jovanmilenkovic.github.io/FaceSwapTemplates/images/Self-portrait_in_a_Straw_Hat.jpg"
         }
-    ]
+      ]
+    },
+    {
+      "id": "young",
+      "name": "Young",
+      "templates": [
+        {
+          "id": "alesiakozik-7295707",
+          "url": "https://jovanmilenkovic.github.io/FaceSwapTemplates/images/pexels-alesiakozik-7295707.jpg"
+        },
+        {
+          "id": "cottonbro-6626903",
+          "url": "https://jovanmilenkovic.github.io/FaceSwapTemplates/images/pexels-cottonbro-6626903.jpg"
+        },
+        {
+          "id": "creationhill-1681010",
+          "url": "https://jovanmilenkovic.github.io/FaceSwapTemplates/images/pexels-creationhill-1681010.jpg"
+        },
+        {
+          "id": "gabby-k-5384429",
+          "url": "https://jovanmilenkovic.github.io/FaceSwapTemplates/images/pexels-gabby-k-5384429.jpg"
+        },
+        {
+          "id": "hamann-la-338986-1205033",
+          "url": "https://jovanmilenkovic.github.io/FaceSwapTemplates/images/pexels-hamann-la-338986-1205033.jpg"
+        },
+        {
+          "id": "iamikeee-2401400",
+          "url": "https://jovanmilenkovic.github.io/FaceSwapTemplates/images/pexels-iamikeee-2401400.jpg"
+        },
+        {
+          "id": "invincible-rohit-923716-2027130",
+          "url": "https://jovanmilenkovic.github.io/FaceSwapTemplates/images/pexels-invincible-rohit-923716-2027130.jpg"
+        },
+        {
+          "id": "joshua-roberts-212557837-12922525",
+          "url": "https://jovanmilenkovic.github.io/FaceSwapTemplates/images/pexels-joshua-roberts-212557837-12922525.jpg"
+        },
+        {
+          "id": "kha-ruxury-287153-921646",
+          "url": "https://jovanmilenkovic.github.io/FaceSwapTemplates/images/pexels-kha-ruxury-287153-921646.jpg"
+        },
+        {
+          "id": "nappy-1771383",
+          "url": "https://jovanmilenkovic.github.io/FaceSwapTemplates/images/pexels-nappy-1771383.jpg"
+        },
+        {
+          "id": "sebastian-715546",
+          "url": "https://jovanmilenkovic.github.io/FaceSwapTemplates/images/pexels-sebastian-715546.jpg"
+        }
+      ]
+    },
+    {
+      "id": "test",
+      "name": "Test Templates",
+      "templates": [
+        {
+          "id": "test_02",
+          "url": "https://jovanmilenkovic.github.io/FaceSwapTemplates/images/test_02.jpg"
+        },
+        {
+          "id": "test_03",
+          "url": "https://jovanmilenkovic.github.io/FaceSwapTemplates/images/test_03.jpg"
+        }
+      ]
+    }
+  ]
 }
