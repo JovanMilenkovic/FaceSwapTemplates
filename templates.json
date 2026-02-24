@@ -1,5 +1,5 @@
 {
-  "version": 3,
+  "version": 4,
   "categories": [
     {
       "id": "paintings",
@@ -36,10 +36,6 @@
       "name": "Young",
       "templates": [
         {
-          "id": "alesiakozik-7295707",
-          "url": "https://jovanmilenkovic.github.io/FaceSwapTemplates/images/pexels-alesiakozik-7295707.jpg"
-        },
-        {
           "id": "cottonbro-6626903",
           "url": "https://jovanmilenkovic.github.io/FaceSwapTemplates/images/pexels-cottonbro-6626903.jpg"
         },
@@ -50,10 +46,6 @@
         {
           "id": "gabby-k-5384429",
           "url": "https://jovanmilenkovic.github.io/FaceSwapTemplates/images/pexels-gabby-k-5384429.jpg"
-        },
-        {
-          "id": "hamann-la-338986-1205033",
-          "url": "https://jovanmilenkovic.github.io/FaceSwapTemplates/images/pexels-hamann-la-338986-1205033.jpg"
         },
         {
           "id": "iamikeee-2401400",
@@ -68,16 +60,12 @@
           "url": "https://jovanmilenkovic.github.io/FaceSwapTemplates/images/pexels-joshua-roberts-212557837-12922525.jpg"
         },
         {
-          "id": "kha-ruxury-287153-921646",
-          "url": "https://jovanmilenkovic.github.io/FaceSwapTemplates/images/pexels-kha-ruxury-287153-921646.jpg"
+          "id": "kowalievska-4171757",
+          "url": "https://jovanmilenkovic.github.io/FaceSwapTemplates/images/pexels-kowalievska-4171757.jpg"
         },
         {
           "id": "nappy-1771383",
           "url": "https://jovanmilenkovic.github.io/FaceSwapTemplates/images/pexels-nappy-1771383.jpg"
-        },
-        {
-          "id": "sebastian-715546",
-          "url": "https://jovanmilenkovic.github.io/FaceSwapTemplates/images/pexels-sebastian-715546.jpg"
         }
       ]
     },
