@@ -1,5 +1,5 @@
 {
-  "version": 4,
+  "version": 5,
   "categories": [
     {
       "id": "paintings",
@@ -66,6 +66,44 @@
         {
           "id": "nappy-1771383",
           "url": "https://jovanmilenkovic.github.io/FaceSwapTemplates/images/pexels-nappy-1771383.jpg"
+        }
+      ]
+    },
+    {
+      "id": "classy",
+      "name": "Classy",
+      "templates": [
+        {
+          "id": "7246",
+          "url": "https://jovanmilenkovic.github.io/FaceSwapTemplates/images/7246.jpg"
+        },
+        {
+          "id": "fashionable-modern-rococo-style",
+          "url": "https://jovanmilenkovic.github.io/FaceSwapTemplates/images/fashionable-modern-rococo-style.jpg"
+        },
+        {
+          "id": "dinielle-de-veyra-2610843-4195342",
+          "url": "https://jovanmilenkovic.github.io/FaceSwapTemplates/images/pexels-dinielle-de-veyra-2610843-4195342.jpg"
+        },
+        {
+          "id": "hamidtajikph-6004824",
+          "url": "https://jovanmilenkovic.github.io/FaceSwapTemplates/images/pexels-hamidtajikph-6004824.jpg"
+        },
+        {
+          "id": "jordan-bergendahl-2628960-10402662",
+          "url": "https://jovanmilenkovic.github.io/FaceSwapTemplates/images/pexels-jordan-bergendahl-2628960-10402662.jpg"
+        },
+        {
+          "id": "karl-rayson-10231869-16894090",
+          "url": "https://jovanmilenkovic.github.io/FaceSwapTemplates/images/pexels-karl-rayson-10231869-16894090.jpg"
+        },
+        {
+          "id": "soldiervip-3830475",
+          "url": "https://jovanmilenkovic.github.io/FaceSwapTemplates/images/pexels-soldiervip-3830475.jpg"
+        },
+        {
+          "id": "teddyjmodel-2955375",
+          "url": "https://jovanmilenkovic.github.io/FaceSwapTemplates/images/pexels-teddyjmodel-2955375.jpg"
         }
       ]
     },
