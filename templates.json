@@ -1,27 +1,57 @@
 {
-  "version": 1,
-  "categories": [
-    {
-      "id": "test",
-      "name": "Test Templates",
-      "icon": "sparkles",
-      "templates": [
+    "version": 1,
+    "categories": [
         {
-          "id": "test_01",
-          "url": "https://jovanmilenkovic.github.io/FaceSwapTemplates/images/test_01.jpg",
-          "credit": "Test 1"
+            id: "paintings",
+            name: "Paintings",
+            "templates": [
+                {
+                    "id": "monalisa",
+                    "url": "https://jovanmilenkovic.github.io/FaceSwapTemplates/images/mona_lisa.jpg",
+                },
+                {
+                    "id": "Baldassare_Castiglione",
+                    "url": "https://jovanmilenkovic.github.io/FaceSwapTemplates/images/Baldassare_Castiglione.jpg",
+                },
+                {
+                    "id": "American_Gothic",
+                    "url": "https://jovanmilenkovic.github.io/FaceSwapTemplates/images/American_Gothic.jpg",
+                },
+                {
+                    "id": "Gustav_Klimt",
+                    "url": "https://jovanmilenkovic.github.io/FaceSwapTemplates/images/Gustav_Klimt.jpg",
+                },
+                {
+                    "id": "Girl_with_a_Pearl_Earring",
+                    "url": "https://jovanmilenkovic.github.io/FaceSwapTemplates/images/Girl_with_a_Pearl_Earring.jpg",
+                },
+                {
+                    "id": "Self-portrait_in_a_Straw_Hat",
+                    "url": "https://jovanmilenkovic.github.io/FaceSwapTemplates/images/Self-portrait_in_a_Straw_Hat.jpg",
+                },
+            ]
         },
         {
-          "id": "test_02",
-          "url": "https://jovanmilenkovic.github.io/FaceSwapTemplates/images/test_02.jpg",
-          "credit": "Test 2"
-        },
-        {
-          "id": "test_03",
-          "url": "https://jovanmilenkovic.github.io/FaceSwapTemplates/images/test_03.jpg",
-          "credit": "Test 3"
+            "id": "test",
+            "name": "Test Templates",
+            "icon": "sparkles",
+            "templates": [
+                {
+                    "id": "test_01",
+                    "url": "https://jovanmilenkovic.github.io/FaceSwapTemplates/images/test_01.jpg",
+                    "credit": "Test 1"
+                },
+                {
+                    "id": "test_02",
+                    "url": "https://jovanmilenkovic.github.io/FaceSwapTemplates/images/test_02.jpg",
+                    "credit": "Test 2"
+                },
+                {
+                    "id": "test_03",
+                    "url": "https://jovanmilenkovic.github.io/FaceSwapTemplates/images/test_03.jpg",
+                    "credit": "Test 3"
+                }
+            ]
         }
-      ]
-    }
-  ]
+    ]
 }
