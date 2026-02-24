@@ -1,0 +1,27 @@
+{
+  "version": 1,
+  "categories": [
+    {
+      "id": "test",
+      "name": "Test Templates",
+      "icon": "sparkles",
+      "templates": [
+        {
+          "id": "test_01",
+          "url": "https://jovanmilenkovic.github.io/FaceSwapTemplates/images/test_01.jpg",
+          "credit": "Test 1"
+        },
+        {
+          "id": "test_02",
+          "url": "https://jovanmilenkovic.github.io/FaceSwapTemplates/images/test_02.jpg",
+          "credit": "Test 2"
+        },
+        {
+          "id": "test_03",
+          "url": "https://jovanmilenkovic.github.io/FaceSwapTemplates/images/test_03.jpg",
+          "credit": "Test 3"
+        }
+      ]
+    }
+  ]
+}
