@@ -1,5 +1,5 @@
 {
-  "version": 5,
+  "version": 6,
   "categories": [
     {
       "id": "paintings",
@@ -104,6 +104,28 @@
         {
           "id": "teddyjmodel-2955375",
           "url": "https://jovanmilenkovic.github.io/FaceSwapTemplates/images/pexels-teddyjmodel-2955375.jpg"
+        }
+      ]
+    },
+    {
+      "id": "gym",
+      "name": "Gym",
+      "templates": [
+        {
+          "id": "DSC07755-2",
+          "url": "https://jovanmilenkovic.github.io/FaceSwapTemplates/images/DSC07755-2.jpg"
+        },
+        {
+          "id": "MFP_2820-min",
+          "url": "https://jovanmilenkovic.github.io/FaceSwapTemplates/images/MFP_2820-min.jpg"
+        },
+        {
+          "id": "norbert-buduczki-qYn2Z55Glds-unsplash",
+          "url": "https://jovanmilenkovic.github.io/FaceSwapTemplates/images/norbert-buduczki-qYn2Z55Glds-unsplash.jpg"
+        },
+        {
+          "id": "connorscottmcmanus-12890820",
+          "url": "https://jovanmilenkovic.github.io/FaceSwapTemplates/images/pexels-connorscottmcmanus-12890820.jpg"
         }
       ]
     },
