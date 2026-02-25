@@ -166,20 +166,6 @@
           "url": "https://jovanmilenkovic.github.io/FaceSwapTemplates/images/the-huron-county-museum-historic-gaol-JLV2zEc_gnc-unsplash.jpg"
         }
       ]
-    },
-    {
-      "id": "test",
-      "name": "Test Templates",
-      "templates": [
-        {
-          "id": "test_02",
-          "url": "https://jovanmilenkovic.github.io/FaceSwapTemplates/images/test_02.jpg"
-        },
-        {
-          "id": "test_03",
-          "url": "https://jovanmilenkovic.github.io/FaceSwapTemplates/images/test_03.jpg"
-        }
-      ]
     }
   ]
 }
