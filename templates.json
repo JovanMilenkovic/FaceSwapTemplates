@@ -130,6 +130,44 @@
       ]
     },
     {
+      "id": "vintage",
+      "name": "Vintage",
+      "templates": [
+        {
+          "id": "karl-edwards-W3v3VFSB7-s-unsplash",
+          "url": "https://jovanmilenkovic.github.io/FaceSwapTemplates/images/karl-edwards-W3v3VFSB7-s-unsplash.jpg"
+        },
+        {
+          "id": "museum-of-new-zealand-te-papa-tongarewa-NCjudS77G_E-unsplash",
+          "url": "https://jovanmilenkovic.github.io/FaceSwapTemplates/images/museum-of-new-zealand-te-papa-tongarewa-NCjudS77G_E-unsplash.jpg"
+        },
+        {
+          "id": "bekah-allmark-88109507-14823054",
+          "url": "https://jovanmilenkovic.github.io/FaceSwapTemplates/images/pexels-bekah-allmark-88109507-14823054.jpg"
+        },
+        {
+          "id": "blitzboy-1040880",
+          "url": "https://jovanmilenkovic.github.io/FaceSwapTemplates/images/pexels-blitzboy-1040880.jpg"
+        },
+        {
+          "id": "farzin-12282638",
+          "url": "https://jovanmilenkovic.github.io/FaceSwapTemplates/images/pexels-farzin-12282638.jpg"
+        },
+        {
+          "id": "iriser-1800454",
+          "url": "https://jovanmilenkovic.github.io/FaceSwapTemplates/images/pexels-iriser-1800454.jpg"
+        },
+        {
+          "id": "suzyhazelwood-3571303",
+          "url": "https://jovanmilenkovic.github.io/FaceSwapTemplates/images/pexels-suzyhazelwood-3571303.jpg"
+        },
+        {
+          "id": "the-huron-county-museum-historic-gaol-JLV2zEc_gnc-unsplash",
+          "url": "https://jovanmilenkovic.github.io/FaceSwapTemplates/images/the-huron-county-museum-historic-gaol-JLV2zEc_gnc-unsplash.jpg"
+        }
+      ]
+    },
+    {
       "id": "test",
       "name": "Test Templates",
       "templates": [
