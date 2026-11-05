@@ -1,5 +1,5 @@
 {
-  "version": 6,
+  "version": 9,
   "categories": [
     {
       "id": "paintings",
@@ -52,8 +52,8 @@
           "url": "https://jovanmilenkovic.github.io/FaceSwapTemplates/images/pexels-iamikeee-2401400.jpg"
         },
         {
-          "id": "invincible-rohit-923716-2027130",
-          "url": "https://jovanmilenkovic.github.io/FaceSwapTemplates/images/pexels-invincible-rohit-923716-2027130.jpg"
+          "id": "pexels-8721970",
+          "url": "https://jovanmilenkovic.github.io/FaceSwapTemplates/images/pexels-8721970.jpg"
         },
         {
           "id": "joshua-roberts-212557837-12922525",
@@ -64,8 +64,8 @@
           "url": "https://jovanmilenkovic.github.io/FaceSwapTemplates/images/pexels-kowalievska-4171757.jpg"
         },
         {
-          "id": "nappy-1771383",
-          "url": "https://jovanmilenkovic.github.io/FaceSwapTemplates/images/pexels-nappy-1771383.jpg"
+          "id": "pexels-29163366",
+          "url": "https://jovanmilenkovic.github.io/FaceSwapTemplates/images/pexels-29163366.jpg"
         }
       ]
     },
@@ -74,12 +74,12 @@
       "name": "Classy",
       "templates": [
         {
-          "id": "7246",
-          "url": "https://jovanmilenkovic.github.io/FaceSwapTemplates/images/7246.jpg"
+          "id": "pexels-16791447",
+          "url": "https://jovanmilenkovic.github.io/FaceSwapTemplates/images/pexels-16791447.jpg"
         },
         {
-          "id": "fashionable-modern-rococo-style",
-          "url": "https://jovanmilenkovic.github.io/FaceSwapTemplates/images/fashionable-modern-rococo-style.jpg"
+          "id": "pexels-37233396",
+          "url": "https://jovanmilenkovic.github.io/FaceSwapTemplates/images/pexels-37233396.jpg"
         },
         {
           "id": "dinielle-de-veyra-2610843-4195342",
@@ -94,12 +94,12 @@
           "url": "https://jovanmilenkovic.github.io/FaceSwapTemplates/images/pexels-jordan-bergendahl-2628960-10402662.jpg"
         },
         {
-          "id": "karl-rayson-10231869-16894090",
-          "url": "https://jovanmilenkovic.github.io/FaceSwapTemplates/images/pexels-karl-rayson-10231869-16894090.jpg"
+          "id": "pexels-30661203",
+          "url": "https://jovanmilenkovic.github.io/FaceSwapTemplates/images/pexels-30661203.jpg"
         },
         {
-          "id": "soldiervip-3830475",
-          "url": "https://jovanmilenkovic.github.io/FaceSwapTemplates/images/pexels-soldiervip-3830475.jpg"
+          "id": "pexels-14866023",
+          "url": "https://jovanmilenkovic.github.io/FaceSwapTemplates/images/pexels-14866023.jpg"
         },
         {
           "id": "teddyjmodel-2955375",
@@ -108,24 +108,40 @@
       ]
     },
     {
-      "id": "gym",
-      "name": "Gym",
+      "id": "careers",
+      "name": "Careers",
       "templates": [
         {
-          "id": "DSC07755-2",
-          "url": "https://jovanmilenkovic.github.io/FaceSwapTemplates/images/DSC07755-2.jpg"
+          "id": "pexels-40163890",
+          "url": "https://jovanmilenkovic.github.io/FaceSwapTemplates/images/pexels-40163890.jpg"
         },
         {
-          "id": "MFP_2820-min",
-          "url": "https://jovanmilenkovic.github.io/FaceSwapTemplates/images/MFP_2820-min.jpg"
+          "id": "pexels-8460157",
+          "url": "https://jovanmilenkovic.github.io/FaceSwapTemplates/images/pexels-8460157.jpg"
         },
         {
-          "id": "norbert-buduczki-qYn2Z55Glds-unsplash",
-          "url": "https://jovanmilenkovic.github.io/FaceSwapTemplates/images/norbert-buduczki-qYn2Z55Glds-unsplash.jpg"
+          "id": "pexels-29654213",
+          "url": "https://jovanmilenkovic.github.io/FaceSwapTemplates/images/pexels-29654213.jpg"
         },
         {
-          "id": "connorscottmcmanus-12890820",
-          "url": "https://jovanmilenkovic.github.io/FaceSwapTemplates/images/pexels-connorscottmcmanus-12890820.jpg"
+          "id": "pexels-39433315",
+          "url": "https://jovanmilenkovic.github.io/FaceSwapTemplates/images/pexels-39433315.jpg"
+        },
+        {
+          "id": "pexels-16844759",
+          "url": "https://jovanmilenkovic.github.io/FaceSwapTemplates/images/pexels-16844759.jpg"
+        },
+        {
+          "id": "pexels-7022827",
+          "url": "https://jovanmilenkovic.github.io/FaceSwapTemplates/images/pexels-7022827.jpg"
+        },
+        {
+          "id": "pexels-5778236",
+          "url": "https://jovanmilenkovic.github.io/FaceSwapTemplates/images/pexels-5778236.jpg"
+        },
+        {
+          "id": "pexels-4031690",
+          "url": "https://jovanmilenkovic.github.io/FaceSwapTemplates/images/pexels-4031690.jpg"
         }
       ]
     },
